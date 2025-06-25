@@ -9,7 +9,7 @@ El curso cubre desde las teorías tradicionales del comercio hasta enfoques cont
 
 ## Logística <br>
 Email: javier.anguiano@cucea.udg.mx <br>
-Horario de clase: Jueves 9:00 AM - 12:00 PM <br>
+Horario de clase: Jueves 9:00 AM - 13:00 PM <br>
 Aula: Por definir
 
 ## Evaluación 
