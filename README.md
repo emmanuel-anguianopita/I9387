@@ -34,7 +34,7 @@ El dominio de herramientas de programación es básico para los científicos soc
  ### Libros de texto
 
 En este curso no hay un libro de texto único; sin embargo, recomiendo los siguientes textos como libros de consulta: 
-  * Dixit, A., y Norman, V. (1980). _Theory of International Trade: A Dual, General Equilibrium Approach_. Cambridge University Press. (Capítulos 1-3). 
+  * Dixit, A., y Norman, V. (1980). _Theory of International Trade: A Dual, General Equilibrium Approach_. Cambridge University Press. 
   * Feenstra, R.C. (2016). _Advanced International Trade: Theory and Evidence_. Princeton University Press. 
  
  ### Lista de lecturas
